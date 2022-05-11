@@ -5,5 +5,5 @@ Todas Las Buenas Prácticas De Programación
 
 Andrés Falconi
 
-Somos tu y yo 
+Conserva tus sueños, nunca sabes cuando te háran falta
 
